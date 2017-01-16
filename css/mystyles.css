@@ -3,6 +3,7 @@
 }
 .img-center {
     margin: 0 auto;
+    height: 30vmax;
 }
 
 .super-title {
@@ -17,7 +18,7 @@
 
 .little-title {
     padding: 0 0 0 20px;
-    color: #ccc;
+    color: #7d97ad;
 }
 
 .logo {
