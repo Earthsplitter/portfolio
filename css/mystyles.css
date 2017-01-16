@@ -1,0 +1,21 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+.img-center {
+    margin: 0 auto;
+}
+
+.super-title {
+    font-size: 64px;
+    font-weight: 300;
+}
+
+.segment-line {
+    height: 5px;
+    background-color: #aaa;
+}
+
+.little-title {
+    padding: 0 0 0 20px;
+    color: #ccc;
+}
