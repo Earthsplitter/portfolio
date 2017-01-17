@@ -1,9 +1,8 @@
 * {
-    font-family: 'Raleway', sans-serif;
+    font-family: "Raleway", sans-serif;
 }
 .img-center {
     margin: 0 auto;
-    height: 30vmax;
 }
 
 .super-title {
@@ -23,4 +22,8 @@
 
 .logo {
     padding-top: 20px;
+}
+
+.bigger-p {
+    font-size: 22px;
 }
